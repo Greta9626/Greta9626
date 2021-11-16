@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Greta Manuello!</h1>
-<h3 align="center">I'm a Junior Front-End develope & Junior Web developer</h3>
+<h3 align="center">I'm a Junior Front-End developer & Junior Web designer</h3>
   
 <hr>
 
